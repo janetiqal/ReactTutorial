@@ -7,6 +7,6 @@ I wanted to dip my toes into the React.js framework in order to be a stronger de
 I followed this [link](https://reactjs.org/tutorial/tutorial.html#setup-for-the-tutorial) to read the documentation and followed along step-by-step instructions in order to build this game of tic-tac-toe. 
 
 ## Credits
-React.js
+React.js and their documentation.
 
 ## Created by Janet Iqal
